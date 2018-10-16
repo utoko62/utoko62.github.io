@@ -1,0 +1,124 @@
+.slide1 {
+	width:100%;
+	background-image: url('../img/venom.png');
+	height:700px;
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center center;
+	position: relative; 
+	font-family: 'Shadows Into Light', cursive;
+
+}
+
+.table {
+	width: 200px;
+	height: 200px;
+	
+}
+.service{
+	margin: 35px;
+	height:250px;
+	background-color: none;
+	border: none; 
+	background-position: center center;
+}
+
+
+nav{
+	font-family: 'Marvel', sans-serif;
+	
+	}
+.form-inline{
+	padding-top: 0px;
+}
+.col-lg-4.col-12 {
+	color: white;
+	padding-top: 10px;
+}
+
+
+/*
+.far fa-envelope{
+	font-size: 50px 
+}
+*/
+
+footer .row{
+	margin-top: 100px;
+	background-color: #000116;
+	
+}
+.text-on-img{
+	position: absolute;
+	
+	left: 35%;
+	top: 50%;
+	font-size: 150px
+
+}
+form{
+	padding-top: 50px;
+	margin-top: 80px;
+}
+.form-group{
+	max-width: 100%;
+}
+#textarea{
+	max-height: 200px;
+}
+
+.d-flex.flex-row{
+	margin-top: 150px;
+	margin-left: 45px;
+	max-width: 400px;
+	color: white;
+}
+.d-flex.flex-row-reverse{
+	margin-top: 150px;
+	margin-left: 45px;
+	max-width: 400px;
+	color: white;
+}
+
+.p-2{
+	margin-bottom: 100px;
+	margin-left: 70px;
+	max-width: 90%;
+}
+.marvel{
+	max-height: 200px;
+	max-width: 100%;
+}
+
+.col-lg-4.col-12.text-center{
+	padding-top: 20px;
+
+}
+
+#twitter{
+	font-size: 20px;
+	color: #16bbf7;
+}
+#fb{
+	font-size: 20px;
+	color: #1649a0;
+}
+#vk{
+	font-size: 20px;
+	color: #3059a0;
+}
+#chat{
+	font-size: 20px;
+	color: white;
+}
+#mail{
+	margin-left: 40px;
+	font-style: 20px;
+	color: yellow;}
+
+
+
+#phone{
+	font-size: 20px;
+	color: green;
+}

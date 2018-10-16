@@ -1,0 +1,8 @@
+@font-face {
+    font-family: '# Grigolia';
+    src: url('../fonts/Grigolia.woff2') format('woff2'),
+        url('../fonts/Grigolia.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
